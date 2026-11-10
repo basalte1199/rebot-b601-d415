@@ -2,7 +2,7 @@
 
 URDF description of the Seeed reBot B601-DM with a custom mounting base, wrist camera bracket, and RealSense D415 camera geometry. Includes a local viewer with sliders for all six arm joints and the coupled gripper.
 
-![Robot preview](preview_iso.png)
+![Robot Viewer with joint sliders](robot_viewer.jpg)
 
 [日本語の仕様・注意事項](README_ja.md)
 
