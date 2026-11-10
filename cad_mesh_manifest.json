@@ -1,0 +1,428 @@
+[
+  {
+    "cad_occurrence": "Base:1+Base_3D_Printed_Parts:1+01_BASE_Link:1",
+    "cad_body": "ボディ2",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_print.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ1",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ2",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ3",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ4",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ5",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ6",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ7",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ8",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ9",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ10",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ11",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ12",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ13",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ14",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ15",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ16",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ17",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ18",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ19",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ20",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ21",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ22",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ23",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ24",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ25",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+AXK5578:1",
+    "cad_body": "ボディ26",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ1",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ2",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ3",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ4",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ5",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ6",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ7",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ8",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ9",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ10",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ11",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ12",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ13",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ14",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ15",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ16",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ17",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ18",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ19",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ20",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ21",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ22",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ23",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ24",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ25",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ26",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ27",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+6707ZZ:1",
+    "cad_body": "ボディ28",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+PIN-D3L8:1",
+    "cad_body": "ボディ1",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+KM3-8-XIAO:1",
+    "cad_body": "ボディ1",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+DM-J4340P:3",
+    "cad_body": "ボディ1",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+DM-J4340P:3",
+    "cad_body": "ボディ2",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+PIN-D3L8:2",
+    "cad_body": "ボディ1",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+KM3-8-XIAO:2",
+    "cad_body": "ボディ1",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+KM3-8-XIAO:3",
+    "cad_body": "ボディ1",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+KM3-8-XIAO:4",
+    "cad_body": "ボディ1",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Purchase_Parts:1+KM3-8-XIAO:5",
+    "cad_body": "ボディ1",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "Base:1+Base_Metal_Parts:1+02_Base_Reinforcement_Part:1",
+    "cad_body": "ボディ1",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_hardware.stl"
+  },
+  {
+    "cad_occurrence": "コンポーネント97:1",
+    "cad_body": "ボディ1",
+    "link": "base_link",
+    "mesh": "meshes/custom/base_plate.stl"
+  },
+  {
+    "cad_occurrence": "D435_Gemini2_Mount v3:1",
+    "cad_body": "ボディ2",
+    "link": "camera_mount_link",
+    "mesh": "meshes/custom/camera_mount.stl"
+  },
+  {
+    "cad_occurrence": "D415_Solid v1:1",
+    "cad_body": "ボディ1",
+    "link": "camera_link",
+    "mesh": "meshes/custom/d415_housing.stl"
+  },
+  {
+    "cad_occurrence": "D415_Solid v1:1",
+    "cad_body": "ボディ2",
+    "link": "camera_link",
+    "mesh": "meshes/custom/d415_window.stl"
+  },
+  {
+    "cad_occurrence": "D415_Solid v1:1",
+    "cad_body": "ボディ3",
+    "link": "camera_link",
+    "mesh": "meshes/custom/d415_housing.stl"
+  },
+  {
+    "cad_occurrence": "D415_Solid v1:1",
+    "cad_body": "ボディ4",
+    "link": "camera_link",
+    "mesh": "meshes/custom/d415_housing.stl"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "source_commit": "b98bee1d6c55d041e08e0f2035d888ad19fff1ee",
+  "cad_document": "reBot_B601_DM_v1.1_20260425 v10",
+  "cad_modified_after_export": false,
+  "cad_world_to_original_base_link": [
+    [
+      -1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      -1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      -0.0033
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "units": "metres; radians",
+  "original_joints_unchanged": 9,
+  "original_nonbase_inertials_collisions_preserved": true,
+  "original_nonbase_visuals_preserved": true,
+  "rviz_multimaterial_fix": "extra visuals moved to identity fixed child links",
+  "root": "base_link",
+  "links": 39,
+  "joints": 38,
+  "mesh_references": 52,
+  "custom_cad_bodies": 71,
+  "camera_reconstruction_max_error_m": 5.626941137121942e-13,
+  "random_kinematic_samples": 30,
+  "unchanged_link6_surface_alignment_m": {
+    "samples": 80,
+    "median": 1.4453784225833485e-05,
+    "p95": 0.0015317632709019517,
+    "max": 0.005425051836206279
+  },
+  "mounting_plate_frame_xyz_m": [
+    -4.723663766213748e-06,
+    4.262550895581946e-05,
+    0.01693421358100541
+  ],
+  "dynamics": "Modified base, camera and mount inertials intentionally omitted: CAD vendor materials are generic steel and actual assembly mass/inertia are not measured. Unchanged arm inertials retained.",
+  "optical_frame": "Nominal camera front-face center; axes follow ROS optical convention. Not a calibrated depth/RGB sensor extrinsic."
+}
